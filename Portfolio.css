@@ -288,7 +288,7 @@ img{
     header,
     header.sticky
     {
-        padding: 20px 25px;
+        padding: 10px 20px;
         z-index: 1000;
     }
     .menu
@@ -339,7 +339,7 @@ img{
     }
     section
     {
-        padding: 100px 50px;
+        padding: 20px 5px;
     }
     .banner{
         padding: 150px 50px 100px;
