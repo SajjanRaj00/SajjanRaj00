@@ -333,9 +333,9 @@ img{
         background-size: 25px;
         cursor: pointer;
     }
-    header.sticky.toggle
+    header.sticky .toggle
     {
-        filter: invert(-1);
+        filter: invert(1);
     }
     section
     {
